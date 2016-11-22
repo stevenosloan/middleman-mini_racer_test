@@ -1,0 +1,1 @@
+Example app testing the use of MiniRacer with Middleman/Middleman::Sprockets
